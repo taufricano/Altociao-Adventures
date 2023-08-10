@@ -8,7 +8,7 @@
 
 
 ## Region: Regadda
-# Place: The Horned Lands
+## Place: The Horned Lands
 # Site: Mercichi
 ## Explored?: Yes
 
